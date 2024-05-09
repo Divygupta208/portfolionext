@@ -35,14 +35,12 @@ const AboutPage = () => {
           <div className="flex flex-col gap-12 justify-center">
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             <p>
-              lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit
-              amet lorem Ipsum dolor sit amet, consectet tempor inv sapien sed
-              diam non pro
+              Hey! 👋 I'm Divy, an apiring and passionate Web Developer . I
+              specialize in frontend-application, crafting engaging digital
+              experiences that captivate audiences. Outside of work, I enjoy
+              music and art , finding inspiration for my next project.
             </p>
-            <span>
-              lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit
-              amet
-            </span>
+            <span>Let's create something amazing together! amet</span>
             <div className=""></div>
             <motion.div
               initial={{ opacity: 0.2, y: 0 }}
@@ -159,11 +157,9 @@ const AboutPage = () => {
                 <div className="w-1/3 ">
                   {" "}
                   <div className="bg-white font-semibold rounded-b-lg rounded-s-lg text-black">
-                    Aspiring Web Developer
+                    NIT RAIPUR GRADUATE '23
                   </div>
-                  <div className="p-3 text-sm italic">
-                    Frequently looking for Web Developer Position
-                  </div>
+                  <div className="p-3 text-sm italic">B.Tech</div>
                 </div>
               </motion.div>
               <motion.div
@@ -174,12 +170,8 @@ const AboutPage = () => {
               >
                 <div className="w-1/3 ">
                   {" "}
-                  <div className="bg-white font-semibold rounded-b-lg rounded-s-lg text-black">
-                    Aspiring Web Developer
-                  </div>
-                  <div className="p-3 text-sm italic">
-                    Frequently looking for Web Developer Position
-                  </div>
+                  <div className="bg-white font-semibold rounded-b-lg rounded-s-lg text-black"></div>
+                  <div className="p-3 text-sm italic"></div>
                 </div>
                 {/* LINK */}
                 <div className="w-1/6 ">
